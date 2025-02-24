@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Harshita Jain
-- 👨‍💻 Backend Engineer | Java, Spring Boot, Docker, AWS  
-- ⚡ Optimizing database design & query performance 
+- 👨‍💻 Backend Engineer | Python, Django, Docker, Redis, AWS  
 - 🛠 Building high-performance RESTful APIs & scalable systems
-- 📚 Always learning and exploring new technologies  
+- 📚 Always learning and exploring new technologies
+- 🏏 I love cricket and bollywood music 🎧
 - ⚡ Fun fact: Coding is like cricket—knowing when to go big or play it safe!  
 
 <!---
