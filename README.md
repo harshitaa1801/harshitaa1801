@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Harshita Jain
+### Harshita Jain
+
 - 👨‍💻 Backend Engineer | Python, Django, Docker, Redis, AWS  
 - 🛠 Building high-performance RESTful APIs & scalable systems
 - 📚 Always learning and exploring new technologies
